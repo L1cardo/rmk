@@ -49,3 +49,6 @@ keymap = [
 
 [ble]
 enabled = true
+
+[host]
+vial_enabled = true

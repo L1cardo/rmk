@@ -1,9 +1,9 @@
 [keyboard]
-name = "Flow Keyboard"
-product_name = "Flow Keyboard"
-vendor_id = 0x0408
-product_id = 0x0001
-manufacturer = "Licardo"
+name = "RMK Keyboard"
+product_name = "RMK Keyboard"
+vendor_id = 0x4c4b
+product_id = 0x4643
+manufacturer = "haobo"
 chip = "esp32s3"
 usb_enable = true
 
@@ -49,6 +49,3 @@ keymap = [
 
 [ble]
 enabled = true
-
-[host]
-vial_enabled = true

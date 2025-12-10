@@ -30,6 +30,9 @@ Kp0     Kp1     Kp2     Kp3
 [[input_device.encoder]]
 pin_a = "P1_09"
 pin_b = "P0_08"
+phase = "resolution"
+resolution = 4
+reverse = false
 
 [storage]
 # Storage feature is enabled by default

@@ -44,6 +44,6 @@ enabled = true
 # vddh has an internal voltage divider
 #battery_adc_pin = "vddh"
 # Or
-battery_adc_pin = "P0_04"
+battery_adc_pin = "P0_03"
 adc_divider_measured = 10000
 adc_divider_total = 20000
